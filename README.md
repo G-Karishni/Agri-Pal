@@ -1,6 +1,6 @@
 # Agri-Pal
 Agri-Pal is the simplest solution to aid a farmer in Agriculture - Crop and Poultry Farming. Agri-Pal is a simple Plug n Play device ensuring Disease Detection and Animal Breach Detection.
-## The device will
+## Features
 1. Monitor and evaluate the plant's physical environment <br/>
 2. Detects Plant and Poultry Diseases and intimate the user via Mobile App. <br/>
 3. App and Chatbot is introduced to guide the user which will attract Youth more into Agriculture. As a result more involvement of Youth in Agriculture.
